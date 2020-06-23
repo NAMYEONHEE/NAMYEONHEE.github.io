@@ -19,3 +19,6 @@ google-analytics:
 exclude: ['package.json', 'src' , 'node_modules']
 
 
+<a aria-label="My Github" target="_blank" href="https://github.com/NAMYEONHEE">
+  <i class="icon fa fa-github-alt" aria-hidden="true"></i>
+</a>
